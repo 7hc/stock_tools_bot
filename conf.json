@@ -1,0 +1,7 @@
+{
+    "CorpID":"xxx",
+    "AgentId":"100000",
+    "Secret":"xxxxxx",
+    "Token":"xxxxxx",
+    "EncodingAESKey":"xxxxxxxx"
+}
